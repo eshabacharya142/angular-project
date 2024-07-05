@@ -1,6 +1,5 @@
 import { Component, Input, Output, EventEmitter} from '@angular/core';
 
-
 // type User = {
 //   id: string;
 //   avatar: string;
